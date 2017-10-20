@@ -30,7 +30,7 @@ localZoom = 9;
 stateCenter = {lat:33.027134, lng:-80.364184};
 stateZoom = 8;
 
-const apiHost = "https://scdotatrapi.herokuapp.com";
+const apiHost = "http://scdotapi-env.us-east-2.elasticbeanstalk.com";
 //const apiHost = "http://localhost:3000";
 
 // modal templates
